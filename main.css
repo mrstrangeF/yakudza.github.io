@@ -1,0 +1,22 @@
+html, body {
+	background-color: #000;
+	color: #fff;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.ff {
+	margin: 10px 20% 20px 34%;
+}
+.fff {
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+.backpack {
+	margin-top: 150px;
+	margin-left: 760px;
+}
