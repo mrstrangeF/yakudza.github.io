@@ -13,7 +13,7 @@ body
     font-family: Roboto Mono;
    }
    #content {
-    width: 500px; /* Ширина слоя */
+    width: 1000px; /* Ширина слоя */
     margin: 0 auto 50px; /* Выравнивание по центру */
    }
    #footer {
@@ -24,4 +24,6 @@ body
     color: white; /* Цвет текста */
     width: 30%; /* Ширина слоя */
    }
-   
+#t656 {
+  font-size: 20px;
+}
